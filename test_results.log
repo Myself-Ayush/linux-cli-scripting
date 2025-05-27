@@ -1,0 +1,59 @@
+Test run started at Tuesday 27 May 2025 09:57:10 AM IST
+[2025-05-27 09:57:10] [INFO] Checking environment...
+[2025-05-27 09:57:10] [INFO] OS: Linux 6.14.6-300.fc42.x86_64
+[2025-05-27 09:57:10] [INFO] Shell: /bin/bash
+[2025-05-27 09:57:10] [INFO] Bash version: 5.2.37(1)-release
+[2025-05-27 09:57:10] [INFO] User: xe
+[2025-05-27 09:57:10] [INFO] Working directory: /home/xe/linux-cli-scripting
+[2025-05-27 09:57:10] [SUCCESS] All required commands are available
+[2025-05-27 09:57:10] [INFO] Checking syntax: user_input.sh
+[2025-05-27 09:57:10] [SUCCESS] Syntax OK: user_input.sh
+[2025-05-27 09:57:10] [INFO] Checking syntax: 01.sh
+[2025-05-27 09:57:10] [SUCCESS] Syntax OK: 01.sh
+[2025-05-27 09:57:10] [INFO] Checking syntax: 02_variables.sh
+[2025-05-27 09:57:10] [SUCCESS] Syntax OK: 02_variables.sh
+[2025-05-27 09:57:10] [INFO] Checking syntax: 03_conditionals.sh
+[2025-05-27 09:57:10] [SUCCESS] Syntax OK: 03_conditionals.sh
+[2025-05-27 09:57:10] [INFO] Checking syntax: 04_loops.sh
+[2025-05-27 09:57:10] [SUCCESS] Syntax OK: 04_loops.sh
+[2025-05-27 09:57:10] [INFO] Checking syntax: 05_functions.sh
+[2025-05-27 09:57:10] [SUCCESS] Syntax OK: 05_functions.sh
+[2025-05-27 09:57:10] [INFO] Checking syntax: 06_arrays.sh
+[2025-05-27 09:57:10] [SUCCESS] Syntax OK: 06_arrays.sh
+[2025-05-27 09:57:10] [INFO] Checking syntax: 01_variables.sh
+[2025-05-27 09:57:10] [SUCCESS] Syntax OK: 01_variables.sh
+[2025-05-27 09:57:10] [INFO] Checking syntax: 02_conditionals.sh
+[2025-05-27 09:57:10] [SUCCESS] Syntax OK: 02_conditionals.sh
+[2025-05-27 09:57:10] [INFO] Checking syntax: 03_loops.sh
+[2025-05-27 09:57:10] [SUCCESS] Syntax OK: 03_loops.sh
+[2025-05-27 09:57:10] [INFO] Checking syntax: 04_functions.sh
+[2025-05-27 09:57:10] [SUCCESS] Syntax OK: 04_functions.sh
+[2025-05-27 09:57:10] [INFO] Checking syntax: 05_arrays.sh
+[2025-05-27 09:57:10] [SUCCESS] Syntax OK: 05_arrays.sh
+[2025-05-27 09:57:10] [INFO] Checking syntax: 01_command_args.sh
+[2025-05-27 09:57:10] [SUCCESS] Syntax OK: 01_command_args.sh
+[2025-05-27 09:57:10] [INFO] Checking syntax: 02_error_handling.sh
+[2025-05-27 09:57:10] [SUCCESS] Syntax OK: 02_error_handling.sh
+[2025-05-27 09:57:10] [INFO] Checking syntax: 03_process_management.sh
+[2025-05-27 09:57:10] [SUCCESS] Syntax OK: 03_process_management.sh
+[2025-05-27 09:57:10] [INFO] Checking syntax: 04_networking.sh
+[2025-05-27 09:57:10] [SUCCESS] Syntax OK: 04_networking.sh
+[2025-05-27 09:57:10] [INFO] Checking syntax: 01_basic_file_ops.sh
+[2025-05-27 09:57:10] [SUCCESS] Syntax OK: 01_basic_file_ops.sh
+[2025-05-27 09:57:10] [INFO] Checking syntax: 02_directory_ops.sh
+[2025-05-27 09:57:10] [SUCCESS] Syntax OK: 02_directory_ops.sh
+[2025-05-27 09:57:10] [INFO] Checking syntax: 03_text_processing.sh
+[2025-05-27 09:57:10] [SUCCESS] Syntax OK: 03_text_processing.sh
+[2025-05-27 09:57:10] [INFO] Checking syntax: 04_permissions_monitoring.sh
+[2025-05-27 09:57:10] [SUCCESS] Syntax OK: 04_permissions_monitoring.sh
+[2025-05-27 09:57:10] [INFO] Checking syntax: system_monitor.sh
+[2025-05-27 09:57:10] [SUCCESS] Syntax OK: system_monitor.sh
+[2025-05-27 09:57:10] [INFO] Checking syntax: distro_detector.sh
+[2025-05-27 09:57:10] [SUCCESS] Syntax OK: distro_detector.sh
+[2025-05-27 09:57:10] [INFO] Checking syntax: file_organizer.sh
+[2025-05-27 09:57:10] [SUCCESS] Syntax OK: file_organizer.sh
+[2025-05-27 09:57:10] [INFO] Checking syntax: system_backup.sh
+[2025-05-27 09:57:10] [SUCCESS] Syntax OK: system_backup.sh
+[2025-05-27 09:57:10] [INFO] Checking syntax: test_runner.sh
+[2025-05-27 09:57:10] [SUCCESS] Syntax OK: test_runner.sh
+[2025-05-27 09:57:10] [SUCCESS] All scripts have valid syntax
