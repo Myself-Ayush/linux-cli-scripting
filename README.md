@@ -39,7 +39,7 @@ linux-cli-scripting/
 
 ### 1. Clone and Setup
 ```bash
-git clone <repository-url>
+git clone https://github.com/Myself-Ayush/linux-cli-scripting.git
 cd linux-cli-scripting
 chmod +x test_runner.sh
 ```
