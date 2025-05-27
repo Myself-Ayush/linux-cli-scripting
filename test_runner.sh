@@ -216,6 +216,32 @@ test_real_world_projects() {
         fi
         ((TOTAL_TESTS++))
     fi
+    
+    # Test log analyzer script
+    if [[ -f "real_world_projects/log_analyzer.sh" ]]; then
+        log_message "TEST" "Testing log analyzer script"
+        if timeout 10 bash "real_world_projects/log_analyzer.sh" --help >/dev/null 2>&1; then
+            log_message "SUCCESS" "Log analyzer script test passed"
+            ((PASSED_TESTS++))
+        else
+            log_message "ERROR" "Log analyzer script test failed"
+            ((FAILED_TESTS++))
+        fi
+        ((TOTAL_TESTS++))
+    fi
+    
+    # Test deployment automation script
+    if [[ -f "real_world_projects/deployment_automation.sh" ]]; then
+        log_message "TEST" "Testing deployment automation script"
+        if timeout 10 bash "real_world_projects/deployment_automation.sh" --help >/dev/null 2>&1; then
+            log_message "SUCCESS" "Deployment automation script test passed"
+            ((PASSED_TESTS++))
+        else
+            log_message "ERROR" "Deployment automation script test failed"
+            ((FAILED_TESTS++))
+        fi
+        ((TOTAL_TESTS++))
+    fi
 }
 
 # Syntax check all scripts

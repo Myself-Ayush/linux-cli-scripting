@@ -95,8 +95,8 @@ cd ../file_operations
 ### 🏗️ **Level 5: Real-World Projects** (`real_world_projects/`)
 - **File Organizer** - Intelligent file management and organization
 - **System Backup** - Professional backup automation with rotation and compression
-- **Log Analyzer** - Parse and analyze system logs
-- **Deployment Scripts** - Automate application deployment
+- **Log Analyzer** - Multi-format log parsing, pattern detection, and security auditing
+- **Deployment Automation** - Multi-environment deployment with rollback capabilities
 
 ## 🧪 Testing Framework
 

@@ -1,0 +1,20 @@
+FILE ORGANIZATION REPORT
+Generated on: Tuesday 27 May 2025 10:03:21 AM IST
+Directory: /home/xe/linux-cli-scripting
+==========================
+
+📊 DIRECTORY ANALYSIS
+====================
+Directory: /home/xe/linux-cli-scripting
+Analysis date: Tuesday 27 May 2025 10:03:21 AM IST
+
+Total files: 7
+Total size: 48K
+
+Files by category:
+  documents: 1 files
+  code: 1 files
+  misc: 5 files
+
+Recent actions:
+[2025-05-27 10:03:03] File organizer started
